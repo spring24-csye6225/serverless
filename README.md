@@ -54,7 +54,3 @@ For any errors or issues:
 - Verify all environment variables and dependencies are correctly configured.
 - Ensure the Cloud Function has appropriate permissions and roles.
 
-## Notes
-
-- Update this README as your function's capabilities grow or change.
-- Include any additional setup or configuration instructions relevant to your function.
