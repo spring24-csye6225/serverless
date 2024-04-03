@@ -63,7 +63,7 @@ def verify_email(event, context):
         return
 
     # Construct Verification Link
-    verification_link = f"http://ns1.csye6225-vakiti.me:8080/verify?token={token}"
+    verification_link = f"https://ns1.csye6225-vakiti.me/verify?token={token}"
 
     # Send Email using Mailgun
     try:
